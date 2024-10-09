@@ -1,3 +1,11 @@
+---
+tags:
+  - marjorie-taylor-greene
+  - twitter
+  - hurricane-helene
+  - maga
+  - climate-change
+---
 In the aftermath of Hurricane Helene, Marjorie Taylor Greene implies that the government is responsible via weather control.
 
 #marjorie-taylor-greene #twitter #hurricane-helene #maga #climate-change
