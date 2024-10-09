@@ -8,8 +8,6 @@ tags:
 ---
 In the aftermath of Hurricane Helene, Marjorie Taylor Greene implies that the government is responsible via weather control.
 
-#marjorie-taylor-greene #twitter #hurricane-helene #maga #climate-change
-
 **Oct 3th 2024** [@mtgreenee](https://x.com/mtgreenee/status/1842039774359462324)
 >Yes they can control the weather. It's ridiculous for anyone to lie and say it can't be done.
 
