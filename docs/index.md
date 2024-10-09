@@ -1,11 +1,7 @@
-# Obsidian Notes
+## 📌 Pinned
+[[Criteria for Holding Individuals Accountable]]
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## 🌞 Dailies
+### 2024-10-08
+[[MTG Thinks the Feds are Behind Hurricane Helene]]
+[[MAGA Believe that FEMA is refusing relief]]
