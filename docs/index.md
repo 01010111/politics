@@ -1,6 +1,6 @@
 ## 📌 Pinned
-- [[Criteria for Holding Individuals Accountable]]
-- [[Red Flag Masterlist]]
+- [[Personal Principles]]
+- [[Red Flag Master List]]
 ## 🌞 Dailies
 
 ### 2024-10-10
