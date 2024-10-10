@@ -18,7 +18,8 @@ In fact, the event was not as prestigious as they pretend. It was an unofficial 
 - Another speaker - Stephen Malthouse - is a former family practitioner who was suspended from practicing for spreading misinformation about COVID and selling fake vaccine exemption certificates.
 - Nick Hudson, another anti-vax speaker at the event, has direct business interests in alternative medicines called "nutraceuticals" for treating COVID through his company Brenn-O-Kem.
 ### Receipts
-**May 3 2023** [European Parliament - International COVID Summit III](https://live.childrenshealthdefense.org/chd-tv/events/fluoride-report-or-systematic-review-of-the-science-or-may-4-or-12-30pm-et/fluoride-report-systematic-review-of-the-science-may-4/)
-**May 18 2023** [Why International COVID Summit III Criticised Vaccine! - Techarp](https://www.techarp.com/facts/international-covid-summit-iii/)
-**Jan 12 2021** [Fact check: Research papers have put forward evidence for airborne transmission of SARS-CoV-2](https://www.reuters.com/article/uk-factcheck-masks/fact-check-research-papers-have-put-forward-evidence-for-airborne-transmission-of-sars-cov-2-idUSKBN29H2UO/)
-Mar 28 2022 [B.C. doctor accused of spreading COVID-19 misinformation suspended from practice](https://www.cbc.ca/news/canada/british-columbia/b-c-doctor-suspended-for-spreading-covid-19-misinformation-1.6400737)
+- **May 3 2023** [European Parliament - International COVID Summit III](https://live.childrenshealthdefense.org/chd-tv/events/fluoride-report-or-systematic-review-of-the-science-or-may-4-or-12-30pm-et/fluoride-report-systematic-review-of-the-science-may-4/)
+- **May 18 2023** [Why International COVID Summit III Criticised Vaccine! - Techarp](https://www.techarp.com/facts/international-covid-summit-iii/)
+- **Jan 12 2021** [Fact check: Research papers have put forward evidence for airborne transmission of SARS-CoV-2](https://www.reuters.com/article/uk-factcheck-masks/fact-check-research-papers-have-put-forward-evidence-for-airborne-transmission-of-sars-cov-2-idUSKBN29H2UO/)
+- **Mar 28 2022** [B.C. doctor accused of spreading COVID-19 misinformation suspended from practice](https://www.cbc.ca/news/canada/british-columbia/b-c-doctor-suspended-for-spreading-covid-19-misinformation-1.6400737)
+- **Sept 28 2021** [Nick Hudson opposes SA’s vaccination plan. What he hasn’t said is that his company makes alternative medicines](https://groundup.org.za/article/outspoken-south-african-anti-vaxxer-has-commercial-interest-alternative-medicine/)
