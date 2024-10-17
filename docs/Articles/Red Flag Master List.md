@@ -11,13 +11,15 @@ I will only catalog individuals when:
 - They hold public office
 - They have a social media account with greater than 50k followers
 
-### Donald Trump
+#### Donald Trump
 - [[Trump Parades delusional Immigration chart at RNC]]
-### Matt Walsh
+#### Matt Walsh
 - [[MAGA Trans Expert wrong about number of trans kids by THREE orders of magnitude]]
-### Marjorie Taylor Greene
+#### Marjorie Taylor Greene
 - [[MTG Thinks the Feds are Behind Hurricane Helene]]
-### Robert F Kennedy Jr
+#### Robert F Kennedy Jr
 - [[Anti-vaxxers hold pretend International Covid Summit]]
-### Jimmy Dore
+#### Jimmy Dore
 - [[MAGA Believe Community Notes are Compromised]]
+#### Gonzalo Lira
+- [[Fact Checking Gonzalo Lira]]

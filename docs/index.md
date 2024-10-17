@@ -3,6 +3,8 @@
 - [[Red Flag Master List]]
 ## 🌞 Dailies
 
+### 2023-10-17
+- **Article** [[Fact Checking Gonzalo Lira]]
 ### 2024-10-10
 - [[MAGA Trans Expert wrong about number of trans kids by THREE orders of magnitude]]
 - [[Cadre of Alt-Right Influencers actually a front for Russian State media]]
