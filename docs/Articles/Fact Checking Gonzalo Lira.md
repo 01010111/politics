@@ -37,11 +37,3 @@ https://en.wikipedia.org/wiki/Servant_of_the_People
 
 According to Forbes, Zelensky's net worth is closer to $20 million, two orders of magnitude off from claims that he is a billionaire.
 https://www.forbesmiddleeast.com/leadership/leaders/president-zelensky-is-not-a-billionaire-so-how-much-is-he-worth
-
-#### Kolomoyskyi controls Burisma
-
-> Who do you think controls Burisma? Kolomoyskyi - the same guy who manufactured Zelensky as president of Ukraine. Yep. Bet you didn't know that, hm?
-
-Burisma was founded by its current president Mykola Zlochevsky, Kolomoyskyi is not linked to Burisma.
-https://en.wikipedia.org/wiki/Burisma
-https://en.wikipedia.org/wiki/Ihor_Kolomoyskyi
