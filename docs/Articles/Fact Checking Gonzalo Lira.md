@@ -1,4 +1,4 @@
-# Background
+## Background
 
 Gonzalo "Coach Red Pill" Lira was a Chilean-American social media influencer who lived in Ukraine during the Russian invasion of Ukraine. He pivoted his influencer focus from red pill misogyny to pro-Russian talking points shortly before the large scale Russian invasion in 2022. in 2023 he was arrested under Ukrainian law - Article 436-2, titled "Justification, recognition as legitimate, denial of the armed aggression of the Russian Federation against Ukraine, glorification of its participants". He was released on bail and placed on house arrest. Later that year he was arrested while attempting to flee Ukraine to Hungary. Five months later he died while in custody of pneumonia.
 
@@ -7,7 +7,7 @@ While I'm focused on debunking a myriad of disinformation Lira shared on his soc
 My intention in debunking Lira is not to smear his name posthumously, but rather to correct information that continue to spreads after the influencer's death. Whether by accident or by design, Lira's positioning of himself as a pro-Russian influencer in 2022 made him a catalyst of popular pro-Russian propaganda and misinformation.
 
 ---
-# Fact Checking
+## Fact Checking
 
 ---
 ## Zelensky, Hunter Biden - and Their Sugar Daddy, Kolomoisky
