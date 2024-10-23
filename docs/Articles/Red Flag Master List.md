@@ -13,6 +13,7 @@ I will only catalog individuals when:
 
 #### Donald Trump
 - [[Trump Parades delusional Immigration chart at RNC]]
+- [[Trump Thinks Public Schools are performing sex change operations]]
 #### Matt Walsh
 - [[MAGA Trans Expert wrong about number of trans kids by THREE orders of magnitude]]
 #### Marjorie Taylor Greene
