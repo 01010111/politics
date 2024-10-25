@@ -4,3 +4,4 @@ https://www.nytimes.com/2021/10/07/us/politics/proud-boys-capitol-riot.html
 https://rumble.com/v44jchl-j6-a-true-timeline-01012024.html
 https://www.youtube.com/watch?v=jWJVMoe7OY0&rco=1
 https://www.foxnews.com/video/6322049576112
+https://www.youtube.com/watch?v=hyIR1vxIcGk&rco=1
