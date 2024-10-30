@@ -8,12 +8,14 @@ tags:
   - ben-shapiro
   - jd-vance
 ---
-[[#Ben Shapiro]]
-[[#Matt Walsh]]
-[[#JD Vance]]
-[[#Tucker Carlson]]
-[[#Mitch McConnell]]
-[[#Mike Johnson]]
+To avoid "Trump Derangement Syndrome" we should look to some of Trump's most steadfast supporters for clear-headed, nuanced, and reasoned information about Trump.
+
+- [[#Ben Shapiro]]
+- [[#Matt Walsh]]
+- [[#JD Vance]]
+- [[#Tucker Carlson]]
+- [[#Mitch McConnell]]
+- [[#Mike Johnson]]
 ### Ben Shapiro
 
 [Ben Shapiro: Donald Trump Is A Liar](https://www.youtube.com/watch?v=yX5dBzxKNOw)
