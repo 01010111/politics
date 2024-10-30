@@ -7,22 +7,39 @@ tags:
   - tucker-carlson
   - ben-shapiro
   - jd-vance
+  - mike-johnson
+  - ted-cruz
 ---
 To avoid "Trump Derangement Syndrome" we should look to some of Trump's most steadfast supporters for clear-headed, nuanced, and reasoned information about Trump.
 
+- [[#Tucker Carlson]]
 - [[#Ben Shapiro]]
 - [[#Matt Walsh]]
 - [[#JD Vance]]
-- [[#Tucker Carlson]]
 - [[#Mitch McConnell]]
 - [[#Mike Johnson]]
-### Ben Shapiro
+- [[#Ted Cruz]]
+
+---
+## 📢 Pundits
+
+#### Tucker Carlson
+
+[5 Times Tucker Carlson Privately Reviled Trump: ‘I Hate Him’](https://www.nytimes.com/2023/03/08/business/media/tucker-carlson-trump.html)
+
+>We are very, very close to being able to ignore Trump most nights...I truly can't wait. I hate him passionately.
+
+>What he's good at is destroying things. He's the undisputed world champion of that.
+
+>Trump's a demonic force, a destroyer.
+
+#### Ben Shapiro
 
 [Ben Shapiro: Donald Trump Is A Liar](https://www.youtube.com/watch?v=yX5dBzxKNOw)
 
 >...he tells it just like it is...except he doesn't - because as entertaining as Donald Trump is - Donald Trump is a liar...Trump's three biggest crowds are evangelicals,  conservatives, and "he's a winner" voters. Trump is lying to all of them. Stop buying the lies.
 
-### Matt Walsh
+#### Matt Walsh
 
 [Let Me Make This Perfectly Clear: I Will Never Vote For Donald Trump](https://archive.ph/2020.06.22-164906/https://www.theblaze.com/contributions/let-me-make-this-perfectly-clear-i-will-never-vote-for-donald-trump#selection-1137.0-1137.383)
 
@@ -43,7 +60,12 @@ To avoid "Trump Derangement Syndrome" we should look to some of Trump's most ste
 >I won't vote for Trump because he has promised to squash dissent and punish those who criticize him.
 >
 >I won't vote for Trump because, on top of all of this professional and political weaknesses, he's a serial adulterer who abandoned two wives and couldn't be troubled to raise his own kids. I could almost forgive his numerous failed business ventures, but if a man fails in business, _and_ fails as a father and a husband, _and_ writes books bragging of his betrayals, _and_ insists he does not need forgiveness for anything, that tells me he is utterly bankrupt and morally destitute to his core.
-### JD Vance
+
+---
+
+## 🏛️ Politicians
+
+#### JD Vance
 
 [Trump-Endorsed Candidate JD Vance Once Said Trump Might Be ‘America’s Hitler’](https://www.vice.com/en/article/jd-vance-trump-messages/)
 
@@ -53,16 +75,7 @@ To avoid "Trump Derangement Syndrome" we should look to some of Trump's most ste
 
 >I’m a ‘Never Trump’ guy...I never liked him.
 
-### Tucker Carlson
-
-[5 Times Tucker Carlson Privately Reviled Trump: ‘I Hate Him’](https://www.nytimes.com/2023/03/08/business/media/tucker-carlson-trump.html)
-
->We are very, very close to being able to ignore Trump most nights...I truly can't wait. I hate him passionately.
-
->What he's good at is destroying things. He's the undisputed world champion of that.
-
->Trump's a demonic force, a destroyer.
-### Mitch McConnell
+#### Mitch McConnell
 
 [McConnell called Trump 'stupid,' 'despicable' in private, according to new book](https://abcnews.go.com/US/wireStory/mcconnell-called-trump-stupid-despicable-private-after-2020-114884151)
 
@@ -70,10 +83,16 @@ To avoid "Trump Derangement Syndrome" we should look to some of Trump's most ste
 
 >This despicable human being, is sitting on this package of relief that the American people desperately need.
 
-### Mike Johnson
+#### Mike Johnson
 
 [Johnson Said in 2015 Trump Was Unfit and Could Be ‘Dangerous’ as President](https://www.nytimes.com/2023/11/14/us/politics/mike-johnson-donald-trump.html)
 
 >The thing about Donald Trump is that he lacks the character and the moral center we desperately need again in the White House...I am afraid he would break more things than he fixes. He is a hot head by nature, and that is a dangerous trait to have in a Commander in Chief.
 
 >What bothered me most was watching the face of my exceptional 10 yr old son, Jack, at one point when he looked over at me with a sort of confused disappointment, as the leader of all polls boasted about calling a woman a ‘fat pig.’
+
+#### Ted Cruz
+
+[Cruz on JFK assassination theory: ‘This is nuts’](https://www.politico.com/story/2016/05/ted-cruz-jfk-assassination-trump-222736)
+
+>I’m gonna tell you what I really think of Donald Trump: This man is a pathological liar. He doesn’t know the difference between truth and lies. He lies practically every word that comes out of his mouth, and in a pattern that I think is straight out of a psychology textbook, his response is to accuse everybody else of lying.
