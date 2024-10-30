@@ -12,6 +12,8 @@ tags:
 [[#Matt Walsh]]
 [[#JD Vance]]
 [[#Tucker Carlson]]
+[[#Mitch McConnell]]
+[[#Mike Johnson]]
 ### Ben Shapiro
 
 [Ben Shapiro: Donald Trump Is A Liar](https://www.youtube.com/watch?v=yX5dBzxKNOw)
@@ -51,10 +53,25 @@ tags:
 
 ### Tucker Carlson
 
-[Defamation suit produced trove of Tucker Carlson messages](https://apnews.com/article/tucker-carlson-fox-news-dominion-lawsuit-trump-5d6aed4bc7eb1f7a01702ebea86f37a1)
+[5 Times Tucker Carlson Privately Reviled Trump: ‘I Hate Him’](https://www.nytimes.com/2023/03/08/business/media/tucker-carlson-trump.html)
 
->We are very, very close to being able to ignore Trump most nights...I truly can't wait.
+>We are very, very close to being able to ignore Trump most nights...I truly can't wait. I hate him passionately.
 
->There really isn't an upside to Trump
+>What he's good at is destroying things. He's the undisputed world champion of that.
 
 >Trump's a demonic force, a destroyer.
+### Mitch McConnell
+
+[McConnell called Trump 'stupid,' 'despicable' in private, according to new book](https://abcnews.go.com/US/wireStory/mcconnell-called-trump-stupid-despicable-private-after-2020-114884151)
+
+>They’ve had just enough of the misrepresentations, the outright lies almost on a daily basis, and they fired him...And for a narcissist like him, that's been really hard to take, and so his behavior since the election has been even worse, by far, than it was before, because he has no filter now at all...[Trump is] stupid as well as being ill-tempered and can’t even figure out where his own best interests lie.
+
+>This despicable human being, is sitting on this package of relief that the American people desperately need.
+
+### Mike Johnson
+
+[Johnson Said in 2015 Trump Was Unfit and Could Be ‘Dangerous’ as President](https://www.nytimes.com/2023/11/14/us/politics/mike-johnson-donald-trump.html)
+
+>The thing about Donald Trump is that he lacks the character and the moral center we desperately need again in the White House...I am afraid he would break more things than he fixes. He is a hot head by nature, and that is a dangerous trait to have in a Commander in Chief.
+
+>What bothered me most was watching the face of my exceptional 10 yr old son, Jack, at one point when he looked over at me with a sort of confused disappointment, as the leader of all polls boasted about calling a woman a ‘fat pig.’
