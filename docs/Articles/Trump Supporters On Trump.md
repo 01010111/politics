@@ -1,8 +1,17 @@
-
+---
+tags:
+  - trump
+  - maga
+  - alternate-media
+  - matt-walsh
+  - tucker-carlson
+  - ben-shapiro
+  - jd-vance
+---
 [[#Ben Shapiro]]
 [[#Matt Walsh]]
 [[#JD Vance]]
-[[#]]
+[[#Tucker Carlson]]
 ### Ben Shapiro
 
 [Ben Shapiro: Donald Trump Is A Liar](https://www.youtube.com/watch?v=yX5dBzxKNOw)
