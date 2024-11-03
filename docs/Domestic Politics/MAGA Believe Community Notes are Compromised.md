@@ -2,6 +2,7 @@
 tags:
   - maga
   - twitter
+  - jimmy-dore
 ---
 ### Summary
 When MAGA tweets get community notes, instead of confronting ideas that may run contrary to their beliefs, they instead claim that twitter's community notes feature has been compromised by bots, paid actors, or the feds. They use made up numbers that don't even correlate with each other in their posts about this ("Since joining Community Notes in March 2023 it has posted nearly 5000 community notes...it’s impossible to be a single person. It is posting over 70 Community Notes per day, every day." 5000 posts between 295 days is 17, not 70).
