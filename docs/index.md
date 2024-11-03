@@ -5,6 +5,8 @@
 
 ### 2024-11-03
 - [[MAGA Influencer Attacked By Demons]]
+- [[Trump wants Death Penalty for Drug Dealers]]
+- [[Trump Announces Prominent Anti-Vaxxer to lead Nation's Charge in Health]]
 ### 2024-10-30
 - **Article** [[Trump Supporters On Trump]]
 ### 2024-10-23

@@ -15,12 +15,15 @@ I will only catalog individuals when:
 - [[Trump Parades delusional Immigration chart at RNC]]
 - [[Trump Thinks Public Schools are performing sex change operations]]
 - [[Trump Supporters On Trump]]
+- [[Trump wants Death Penalty for Drug Dealers]]
+- [[Trump Announces Prominent Anti-Vaxxer to lead Nation's Charge in Health]]
 #### Matt Walsh
 - [[MAGA Trans Expert wrong about number of trans kids by THREE orders of magnitude]]
 #### Marjorie Taylor Greene
 - [[MTG Thinks the Feds are Behind Hurricane Helene]]
 #### Robert F Kennedy Jr
 - [[Anti-vaxxers hold pretend International Covid Summit]]
+- [[Trump Announces Prominent Anti-Vaxxer to lead Nation's Charge in Health]]
 #### Jimmy Dore
 - [[MAGA Believe Community Notes are Compromised]]
 #### Gonzalo Lira
