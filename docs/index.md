@@ -3,6 +3,8 @@
 - [[Red Flag Master List]]
 ## 🌞 Dailies
 
+### 2024-11-03
+- [[MAGA Influencer Attacked By Demons]]
 ### 2024-10-30
 - **Article** [[Trump Supporters On Trump]]
 ### 2024-10-23
