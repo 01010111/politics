@@ -1,3 +1,5 @@
+## Immigration
+
 Donald Trump is a deeply unserious person thrust into a position where his unseriousness will cause very serious problems. His rhetoric and policies around immigration highlight this unseriousness - perhaps more so than his cartoonish mannerisms, his ceaseless and desperate need for approval, or his clownish spray tan.
 
 I'm non partisan on immigration. My beliefs on it are a pastiche of my former libertarian ideals, my childish notions of American exceptionalism, and a practical desire for the wellbeing of everyone - elements of my identity that regularly clash with my more liberal or even leftist tendencies. To put it more clearly, and to put it in words with which I believe most people would generally agree:
