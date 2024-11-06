@@ -11,8 +11,9 @@ Donald Trump is a deeply unserious person thrust into a position where his unser
 
 I'm non partisan on immigration. My beliefs on it are a pastiche of my former libertarian ideals, my childish notions of American exceptionalism, and a practical desire for the wellbeing of everyone - elements of my identity that regularly clash with my more liberal or even leftist tendencies. To put it more clearly, and to put it in words with which I believe most people would generally agree:
 
-- America should strive to be good
+- America should maximize freedoms
 - America has a tradition of being a safe-haven
+- America should strive to be good
 
 If we get more into the weeds of things, we might find more disagreement. To show my more conservative beliefs on immigration, I also believe:
 
