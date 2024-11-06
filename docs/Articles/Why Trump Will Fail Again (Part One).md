@@ -1,3 +1,10 @@
+---
+tags:
+  - trump
+  - immigration
+  - maga
+---
+
 ## Immigration
 
 Donald Trump is a deeply unserious person thrust into a position where his unseriousness will cause very serious problems. His rhetoric and policies around immigration highlight this unseriousness - perhaps more so than his cartoonish mannerisms, his ceaseless and desperate need for approval, or his clownish spray tan.

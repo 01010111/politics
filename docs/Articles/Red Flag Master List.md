@@ -17,6 +17,7 @@ I will only catalog individuals when:
 - [[Trump Supporters On Trump]]
 - [[Trump wants Death Penalty for Drug Dealers]]
 - [[Trump Announces Prominent Anti-Vaxxer to lead Nation's Charge in Health]]
+- [[Why Trump Will Fail Again (Part One)]]
 #### Matt Walsh
 - [[MAGA Trans Expert wrong about number of trans kids by THREE orders of magnitude]]
 #### Marjorie Taylor Greene
