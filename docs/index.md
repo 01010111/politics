@@ -3,6 +3,8 @@
 - [[Red Flag Master List]]
 ## 🌞 Dailies
 
+### 2024-11-06
+- **Article** [[Why Trump Will Fail Again - Part One - Immigration]]
 ### 2024-11-03
 - [[MAGA Influencer Attacked By Demons]]
 - [[Trump wants Death Penalty for Drug Dealers]]
