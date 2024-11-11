@@ -3,6 +3,11 @@ tags:
   - trump
   - immigration
   - maga
+  - great-replacement
+  - rfk-jr
+  - elise-stefanik
+  - newt-gingrich
+  - tucker-carlson
 ---
 
 ## Immigration
@@ -53,3 +58,14 @@ It's more likely that Trump is inflating numbers from the U.S. Customs and Borde
 This claim would be like hearing that the U.S. Forest Service responds to thousands of wildfires a year and to conclude that the policy of the U.S. Forest Service is to ignore fires because there are thousands of wildfires a year. It's stupid on its face, and doesn't even get to the crux of the issue - is it a problem that there are thousands of wildfires a year? What is causing the wildfires? Can we prevent wildfires while addressing the natural cycle of dry brush catching fire and releasing decaying carbon into the environment? Does climate change have an effect on the frequency of wildfires?
 
 My fear with Trump's second term is that he seems completely disinterested in observing this issue, asking meaningful questions, or forming coherent policy around it - and he's joined by his administration, his followers, and the cowering sycophants in the Republican Party. Instead there seems to be a joy in their pearl-clutching ignorance - a coddled catharsis because someone is finally giving validation to the night terrors instead of telling him that the nightmare is just in their heads.
+
+## Addendum - Great Replacement Theory
+
+The Great Replacement Theory is an alt-right conspiracy theory that claims that political elites use means such as immigration policy, cultural acceptance of interracial relationships, and even bio-weapons (yes, they're talking about COVID-19). People who push the replacement theory ([Donald Trump](https://www.vox.com/2019/1/14/18181897/trump-pat-buchanan-column-tweet), [Tucker Carlson](https://www.washingtonpost.com/politics/2021/04/14/tucker-carlsons-toxic-replacement-rhetoric-gets-picked-up-house/), [Elise Stefanik](https://www.theguardian.com/us-news/2022/may/16/buffalo-massacre-great-replacement-theory-republicans), [Newt Gingrich](https://www.thedailybeast.com/newt-gingrich-goes-full-great-replacement-theory-in-maria-bartiromo-interview-on-fox-business/), [Robert F Kennedy Jr](https://nypost.com/2023/07/15/rfk-jr-says-covid-was-ethnically-targeted-to-spare-jews/), and countless other alt-right politicians and pundits) are stupid, liars, or both. Like many other conspiracy theories, great replacement is a confluence of many disparate conspiracy theories that coalesce into one larger movement. For example, COVID theories are as diversified as "COVID was a bioweapon meant to target whites" to "Science elites lied about the efficacy of the vaccines", the former being completely unhinged, and the latter arguably being true (by cherry picking a handful of statements from a much, much wider pool of statements) - the point is that these conspiracy theorists will throw 500 different things against the wall, and if just one or two things stick (not factually of course, but mimetically), it validates the entire movement or - more insidiously - leaves the orbit of the movement so the ideas and goals of the movement don't get tainted by the movement itself. I just wanted to write down all of the realities that these conservatives currently hold in their heads. I'll pair these beliefs with actual facts to show that - like Trump - the ideas around immigration pushed by replacement theorists are incongruous not only with reality, but also with themselves.
+
+- **MAGA belief:** Democrats are shipping illegal immigrants into red states to create a wider voter base in red states to flip them blue - something Trump's future U.N. ambassador and great replacement theory supporter Elise Stefanik calls ["election insurrection"](https://www.theguardian.com/us-news/2022/may/16/buffalo-massacre-great-replacement-theory-republicans)
+- **Reality:** Along with the fact that illegal immigrants cannot vote in federal elections, the 2024 election showed a drastic uptick of Latino support for Trump, raising from 35% in 2020 to 46% in 2024, including 55% of Latino men supporting Trump [(source)](https://newrepublic.com/post/188203/latino-vote-trump-harris-2024-election-data-breakdown)
+
+- **MAGA belief:** Democrats are shipping illegal immigrants into blue states to pad census data so blue states will be appointed more seats in Congress.
+- **Bonus MAGA belief**: It's actually very funny and good for conservative Governors to ship illegal immigrants into blue states - including Texas MAGA Governor Greg Abbot, who has spent nearly $150 million shipping over 100,000 immigrants to different left leaning cities around the country [(source)](https://www.texastribune.org/2024/02/21/texas-migrants-busing-cost-greg-abbott/)
+- **Reality:** Immigrants often settle in red states, and when the census was administered in 2020, red states gained three congressional seats, and blue states lost three congressional seats [(source)](https://it.usembassy.gov/how-does-the-u-s-census-affect-congress/). If unauthorized immigrants were excluded from the apportionment count, blue states would lose three seats, while red states would lose four [(source)](https://www.pewresearch.org/short-reads/2020/07/24/how-removing-unauthorized-immigrants-from-census-statistics-could-affect-house-reapportionment/) .
