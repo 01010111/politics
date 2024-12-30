@@ -3,6 +3,8 @@
 - [[Red Flag Master List]]
 ## 🌞 Dailies
 
+### 2024-11-20
+- [[MAGA Influencer scared about Nuclear Demons]]
 ### 2024-11-06
 - **Article** [[Why Trump Will Fail Again (Part One)]]
 ### 2024-11-03

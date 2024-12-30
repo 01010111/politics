@@ -29,3 +29,6 @@ I will only catalog individuals when:
 - [[MAGA Believe Community Notes are Compromised]]
 #### Gonzalo Lira
 - [[Fact Checking Gonzalo Lira]]
+#### Tucker Carlson
+- [[MAGA Influencer Attacked By Demons]]
+- [[MAGA Influencer scared about Nuclear Demons]]
